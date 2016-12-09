@@ -1,0 +1,27 @@
+C:\Users\pilip\Desktop\Backup\bin\Debug\NotepadCSharp.exe.config
+C:\Users\pilip\Desktop\Backup\bin\Debug\NotepadCSharp.exe
+C:\Users\pilip\Desktop\Backup\bin\Debug\NotepadCSharp.pdb
+C:\Users\pilip\Desktop\Backup\obj\Debug\NotepadCSharp.csprojResolveAssemblyReference.cache
+C:\Users\pilip\Desktop\Backup\obj\Debug\NotepadCSharp.About.resources
+C:\Users\pilip\Desktop\Backup\obj\Debug\NotepadCSharp.blank.resources
+C:\Users\pilip\Desktop\Backup\obj\Debug\NotepadCSharp.FindForm.resources
+C:\Users\pilip\Desktop\Backup\obj\Debug\NotepadCSharp.frmmain.resources
+C:\Users\pilip\Desktop\Backup\obj\Debug\NotepadCSharp.IAbout.resources
+C:\Users\pilip\Desktop\Backup\obj\Debug\NotepadCSharp.csproj.GenerateResource.Cache
+C:\Users\pilip\Desktop\Backup\obj\Debug\NotepadCSharp.exe
+C:\Users\pilip\Desktop\Backup\obj\Debug\NotepadCSharp.pdb
+D:\Education (KPI)\# III course\First semestr\СТП-2\Backup\bin\Debug\NotepadCSharp.exe.config
+D:\Education (KPI)\# III course\First semestr\СТП-2\Backup\obj\Debug\NotepadCSharp.exe
+D:\Education (KPI)\# III course\First semestr\СТП-2\Backup\obj\Debug\NotepadCSharp.pdb
+D:\Education (KPI)\# III course\First semestr\СТП-2\Backup\bin\Debug\NotepadCSharp.exe
+D:\Education (KPI)\# III course\First semestr\СТП-2\Backup\bin\Debug\NotepadCSharp.pdb
+D:\Education (KPI)\# III course\First semestr\СТП-2\Backup\obj\Debug\NotepadCSharp.csprojResolveAssemblyReference.cache
+D:\Education (KPI)\# III course\First semestr\СТП-2\Backup\obj\Debug\NotepadCSharp.blank.resources
+D:\Education (KPI)\# III course\First semestr\СТП-2\Backup\obj\Debug\NotepadCSharp.FindForm.resources
+D:\Education (KPI)\# III course\First semestr\СТП-2\Backup\obj\Debug\NotepadCSharp.IAbout.resources
+D:\Education (KPI)\# III course\First semestr\СТП-2\Backup\obj\Debug\NotepadCSharp.csproj.GenerateResource.Cache
+D:\Education (KPI)\# III course\First semestr\СТП-2\Backup\obj\Debug\NotepadCSharp.AboutProgram.resources
+D:\Education (KPI)\# III course\First semestr\СТП-2\Backup\obj\Debug\NotepadCSharp.MainForm.resources
+D:\Education (KPI)\# III course\First semestr\СТП-2\Repository\TextEditor\bin\Debug\NotepadCSharp.exe.config
+D:\Education (KPI)\# III course\First semestr\СТП-2\Repository\TextEditor\obj\Debug\NotepadCSharp.exe
+D:\Education (KPI)\# III course\First semestr\СТП-2\Repository\TextEditor\obj\Debug\NotepadCSharp.pdb
